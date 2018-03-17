@@ -1,8 +1,7 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    GitHub: https://github.com/yangsoon
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -12,10 +11,15 @@ logo: /favicon.png
 # e.g disqus: seansun
 disqus:
 duoshuo:
-
+gitment:
+    enable: true
+    owner: yangsoon
+    repo: yangsoon.github.io
+    client_id: c6e81705ee274d631d1d
+    client_secret: d2366443245bc5528fc5a73af235d9e23d14e33a
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga:
 
 # Copyright Infomation
 startyear: 2015
