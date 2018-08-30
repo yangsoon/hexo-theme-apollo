@@ -2,6 +2,7 @@ menu:
     Blog: /
     Archive: /archives/
     GitHub: https://github.com/yangsoon
+    zhihu: https://www.zhihu.com/people/song-yang-91-69/activities
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -19,7 +20,7 @@ gitment:
     client_secret: d2366443245bc5528fc5a73af235d9e23d14e33a
 # Analytics
 # google-analytics:
-ga:
+ga: UA-117274875-1
 
 # Copyright Infomation
 startyear: 2015
